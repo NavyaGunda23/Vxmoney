@@ -1,0 +1,32 @@
+.primary-button{
+    /* border-radius: 12px; */
+position: relative !important;
+border-image: linear-gradient(#9d00ff, #FF990D) 1 !important;
+border-width: 1px !important;
+border-style: solid;
+padding: 12px 30px !important;
+background: none;
+display: flex;
+align-items: center;
+color: #FF990D !important; 
+}
+.primary-button img{
+
+    padding-right: 10px;
+}
+
+.primary-button span{
+    color: #FF990D !important; 
+    font-size: 16px !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    line-height: normal !important;
+    margin-top: 0px !important;
+}
+.primary-button:hover{
+    background: linear-gradient(to left, #9d00ff, #FF990D) !important;
+    color: white !important;
+}
+.primary-button:hover span{
+    color: white !important;
+}

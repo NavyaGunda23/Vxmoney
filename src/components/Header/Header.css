@@ -1,0 +1,17 @@
+.MuiOutlinedInput-root{
+border: 1px solid #A6ABAC !important;
+padding: 0px !important;
+}
+.MuiInputLabel-formControl{
+    top: -7px !important;
+}
+.MuiInputBase-inputTypeSearch,.MuiInputLabel-formControl{
+    color: #A6ABAC !important;
+text-align: center !important;
+font-family: Outfit !important;
+font-size: 16px !important;
+font-style: normal;
+font-weight: 300 !important;
+text-align: left !important;
+
+}

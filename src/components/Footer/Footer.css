@@ -1,0 +1,48 @@
+.footer-info{
+    color: #CCC;
+font-family: Outfit;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%; /* 16.8px */
+}
+.footer-container{
+    background: #0F0F0F;
+    padding: 70px 45px 40px 45px;
+    margin-top: 100px;
+}
+.logo-footer{
+    width: 244px;
+    height: 50px;
+}
+.apple-logo{
+    width: 129px;
+    height: 37px;
+}
+.android-logo{
+    width: 129px;
+    height: 37px;
+}
+.language-list span{
+    color: #CCC;
+font-family: Outfit;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 220%; /* 35.2px */
+}
+.language-list h6{
+    color: #FFF;
+    font-family: Outfit;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25.734px; /* 116.974% */
+}
+.copyright{
+    background: #0F0F0F;
+    text-align: center;
+    color: #CCC;
+    padding: 20px;
+    border-top: 1px solid #CCC;
+}

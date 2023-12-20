@@ -1,0 +1,119 @@
+.offer-grid{
+    background: #272727;
+    border-radius: 10px;
+    padding: 30px;
+    box-sizing: border-box;
+}
+.offer-grid img{
+    width: auto;
+    height: 129.302px;
+}
+.offer-grid p{
+    color: #FFF;
+font-family: Outfit;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 140%; /* 25.2px */
+}
+.offer-grid-paremt{
+    column-gap: 50px;
+    justify-content: center;
+    row-gap: 50px;
+}
+.offer-grid-game-container{
+    column-gap: 55px;
+    row-gap: 20px;
+    justify-content: center;
+}
+.offer-grid-game{
+    border-radius: 10.634px;
+background:  #181818;
+/* max-width: 14.999% !important; */
+}
+.offer-grid-game .title{
+    color: #FFF;
+font-family: Outfit;
+font-size: 13.716px;
+font-style: normal;
+font-weight: 500;
+line-height: 140%; /* 19.202px */
+}
+.coinsContainer{
+    display: inline-flex;
+padding: 3.373px 8.095px;
+justify-content: center;
+align-items: flex-start;
+gap: 3.373px;
+border-radius: 4px;
+background: rgba(255, 187, 51, 0.19);
+width: fit-content;
+}
+.coins-count{
+    color:  #FB3;
+font-family: Outfit;
+font-size: 10.794px;
+font-style: normal;
+font-weight: 600;
+line-height: 19px; /* 15.112px */
+}
+.endingitimecontainer h6{
+    color: #FFF;
+text-align: center;
+font-family: Outfit;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 19.2px */
+text-align: left;
+}
+.timer{
+    color: #FFF;
+    text-align: center;
+    font-family: Ubuntu;
+    font-size: 28.081px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%; /* 28.081px */
+    letter-spacing: 2.808px;
+}
+.timer-format p{
+    color: #FFF;
+text-align: center;
+font-family: Ubuntu;
+font-size: 8.26px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 13.215px */
+}
+.timer-format{
+    padding: 0px 20px;
+}
+.device-tage{
+    background-color: #272727;
+    padding: 2px 7px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+}
+.device-tage span{
+    color: #C9C9C9;
+    text-align: center;
+    font-family: Outfit;
+    font-size: 10.212px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.device-tage img{
+    margin-right: 5px;
+}
+.followers span{
+    color:  #FFF;
+font-family: Outfit;
+font-size: 11.757px;
+font-style: normal;
+font-weight: 400;
+line-height: 140%; /* 16.459px */
+}
+.followers img{vertical-align: middle;margin-right: 5px;}

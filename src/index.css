@@ -1,0 +1,193 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+body {
+  font-family: "Outfit";
+}
+*{
+  padding: 0px;
+  margin:0px;
+}
+.gamepage{
+  background: linear-gradient(#1D1D1D);
+  background-image: 
+   linear-gradient(to bottom, 
+   #1D1D1D  5%, 
+   #2f2aad   20%, 
+   #2f2aad   10%,
+   #1D1D1D   40% );
+     /* height: 2752px; */
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     row-gap: 72px;
+ 
+ }
+ .card-Headers .card-header-title{
+  color:  #BDBDBD;
+font-family: Outfit;
+font-size: 16.911px;
+font-style: normal;
+font-weight: 500;
+line-height: 33.822px; /* 200% */
+ }
+ .arrow-forward{
+  color: #FF990D;
+ }
+ .buttin-icon{
+  background-color: #272727 !important;
+  padding: 7px !important;
+  border-radius: 4px !important
+ }
+ .w-100{
+  width: 100%;
+ }
+ .p-40{
+  padding: 0px 40px;
+ }
+ .breadcrumb-title{
+  color: #828282;
+font-family: Outfit;
+font-size: 21.225px;
+font-style: normal;
+font-weight: 300;
+line-height: 158.13%; /* 33.563px */
+ }
+ .arrow-left{
+  color: #828282;
+ }
+ .filterBy-Section{
+  border-radius: 11.241px;
+padding: 30px;
+background: rgba(242,242,242,0.2);
+ }
+ .filterBy-Section h6{
+  color: #F2F2F2;
+font-family: Outfit;
+font-size: 18.12px;
+font-style: normal;
+font-weight: 700;
+line-height: 25.885px; /* 142.857% */
+ }
+ .filterBy-Section .MuiFormControlLabel-label{
+  color: #FFF;
+  font-family: Outfit;
+  font-size: 18.12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25.885px; /* 142.857% */
+ }
+ .MuiRadio-root{
+  color: white !important;
+ }
+ .individual-app-image{
+  width: auto;
+  height: 423px;
+ }
+ .individual-desc{
+  color: #FFF;
+font-family: Outfit;
+font-size: 16px;
+font-style: normal;
+font-weight: 300;
+line-height: 28.289px; /* 176.807% */
+white-space: pre-line;
+ }
+ .app-title{
+  color: #FFF;
+font-family: Outfit;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 29.9px; /* 124.581% */
+ }
+ .app-logo-individual{
+  width: 45.97px;
+height: 45.97px;
+background:  #F2F2F2;
+border-radius: 40px;
+ }
+ .app-logo-individual img{
+  width: 32px;
+  height: 22px;
+ }
+ .banner-lve-cards{
+  background: #272727;
+  border-radius: 20px;
+  padding: 20px 40px;
+ }
+ .live-container span{
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  background: #27AE60;;
+ }
+
+ .live-container p{
+  color: #27AE60;
+text-align: center;
+font-family: Outfit;
+font-size: 15.324px;
+font-style: normal;
+font-weight: 400;
+line-height: 100%; /* 15.324px */
+letter-spacing: 1.532px;
+padding-left: 10px;
+ }
+ .live-container{
+  border: 1px solid #27AE60;
+  width: fit-content;
+  padding: 5px 10px ;
+  border-radius: 10px;
+ }
+ .live-container-details h6{
+  color: rgb(255, 255, 255,0.6);
+text-align: center;
+font-family: Outfit;
+font-size: 11.919px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 19.07px */
+text-align: left;
+ }
+ .live-container-details p{
+  color: #FFF;
+  text-align: center;
+  font-family: Outfit;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 100%; /* 18px */
+  letter-spacing: 1.8px;
+ }
+ .divider{
+  background: #646464;
+  margin: 0 51px !important;
+ }
+ .task-detail-container span {
+  color: #FFF;
+  font-family: Outfit;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 27.243px; /* 194.595% */
+ }
+ .task-style{
+  color: #FFF;
+font-family: Outfit;
+font-size: 20.432px;
+font-style: normal;
+font-weight: 500;
+line-height: 28.794px; /* 140.923% */
+margin: 20px 0px;
+ }
